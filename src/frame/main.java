@@ -168,7 +168,7 @@ public class main extends JFrame {
 		contentPane.add(btnNewButton_1_1_1);
 		
 		JButton btnNewButton_2 = new JButton("Administrar vehiculos");
-		btnNewButton_2.setBounds(10, 11, 133, 25);
+		btnNewButton_2.setBounds(10, 11, 169, 25);
 		contentPane.add(btnNewButton_2);
 		
 		JComboBox comboBox = new JComboBox();
@@ -176,7 +176,7 @@ public class main extends JFrame {
 		contentPane.add(comboBox);
 		
 		JButton btnNewButton_3 = new JButton("seleccionar");
-		btnNewButton_3.setBounds(584, 13, 89, 23);
+		btnNewButton_3.setBounds(565, 13, 122, 23);
 		contentPane.add(btnNewButton_3);
 	}
 }
